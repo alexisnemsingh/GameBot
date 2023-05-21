@@ -1,6 +1,6 @@
 # Welcome!
-This is the GameBot repository, a summer project between Alexis Nemsingh and Carlos Valdez. This document will include 
-the requirements for the project as well as the tools we'll be using.
+This is the GameBot repository, a summer project by Alexis Nemsingh. This document will include 
+the requirements for the project as well as the tools that'll be used.
 
 # Requirements
 - Randomly select a game from a list
@@ -9,7 +9,7 @@ the requirements for the project as well as the tools we'll be using.
 - And (eventually) more
 
 # Tools
-We will be using...
+Tools include...
 - [TypeScript](https://www.typescriptlang.org/)
-  - If things get too complicated, we can just use regular JavaScript
+  - If things get too complicated, JavaScript will do just fine
 - [discord.js](https://discord.js.org/)
